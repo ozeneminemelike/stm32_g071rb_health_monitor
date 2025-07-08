@@ -19,10 +19,10 @@ This project is a design project built on the STM32G071RB microcontroller. It fe
 ## Libraries Used
 - [ST7789 STM32 HAL Driver]( https://github.com/Floyd-Fish/ST7789-STM32) – **GPLv3 License**
 
-
 > 🛠️ Built and tested on STM32CubeIDE on macOS  
 > 🧪 Fully functional on STM32G071RB with 3.3V logic level devices
-> ## License
+
+## License
 
 **This project is licensed under the [GNU General Public License v3.0](./LICENSE)**  
 You are free to use, modify, and distribute this code under the same license.
